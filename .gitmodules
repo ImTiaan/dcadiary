@@ -1,0 +1,3 @@
+[submodule "dcadiary/themes/hugo-toigian"]
+	path = dcadiary/themes/hugo-toigian
+	url = https://github.com/ntk148v/hugo-toigian.git
